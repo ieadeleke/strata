@@ -10,7 +10,7 @@ import { LiaToolsSolid } from "react-icons/lia";
 import { CgToolbarBottom } from "react-icons/cg";
 import { MdArrowOutward } from "react-icons/md";
 
-import SurpriseImg from "@/assets/images/Surprise.png";
+import SurpriseImg from "@/assets/images/surprise.png";
 
 
 import Link from "next/link";
